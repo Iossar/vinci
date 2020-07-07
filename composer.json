@@ -1,0 +1,7 @@
+{
+    "require": {
+        "symfony/http-client": "^5.1",
+        "gabordemooij/redbean": "^5.5",
+        "illuminate/database": "^7.18"
+    }
+}
