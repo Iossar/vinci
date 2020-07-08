@@ -3,5 +3,10 @@
         "symfony/http-client": "^5.1",
         "gabordemooij/redbean": "^5.5",
         "illuminate/database": "^7.18"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\" : "app/"
+        }
     }
 }
